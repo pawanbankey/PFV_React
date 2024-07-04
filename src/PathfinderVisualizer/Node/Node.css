@@ -8,7 +8,7 @@
   }
   
   .node-finish {
-    background-color: blue;
+    background-color: rgb(175, 175, 233);
     border-radius: 10px;
   }
   
@@ -31,17 +31,17 @@
   @keyframes visitedAnimation {
     0% {
       transform: scale(0.3);
-      background-color: rgba(0, 0, 66, 0.75);
+      background-color: rgba(223, 66, 113, 0.75);
       border-radius: 100%;
     }
   
     50% {
-      background-color: rgba(17, 104, 217, 0.75);
+      background-color: rgba(20, 97, 197, 0.75);
     }
   
     75% {
       transform: scale(1.1);
-      background-color: rgba(0, 217, 159, 0.75);
+      background-color: rgba(223, 247, 13, 0.75);
     }
   
     100% {
